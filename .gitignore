@@ -1,7 +1,6 @@
 # Library directories
 node_modules
 coverage
-lib
 npm-debug.log
 
 # Ignore Mac DS_Store files
